@@ -1,5 +1,6 @@
-
 target/
 dbt_packages/
 logs/
 secrets/
+
+package-lock.yml
